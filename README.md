@@ -1,0 +1,2 @@
+# ClusterWebApp
+ClusterWebApp JBoss demo
